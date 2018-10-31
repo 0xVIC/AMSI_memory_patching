@@ -1,0 +1,5 @@
+C:\Users\vmrodriguez\source\repos\AMSI_memory_patching\AMSI_memory_patching\AMSI_memory_patching\bin\Debug\AMSI_memory_patching.dll
+C:\Users\vmrodriguez\source\repos\AMSI_memory_patching\AMSI_memory_patching\AMSI_memory_patching\bin\Debug\AMSI_memory_patching.pdb
+C:\Users\vmrodriguez\source\repos\AMSI_memory_patching\AMSI_memory_patching\AMSI_memory_patching\obj\Debug\AMSI_memory_patching.csproj.CoreCompileInputs.cache
+C:\Users\vmrodriguez\source\repos\AMSI_memory_patching\AMSI_memory_patching\AMSI_memory_patching\obj\Debug\AMSI_memory_patching.dll
+C:\Users\vmrodriguez\source\repos\AMSI_memory_patching\AMSI_memory_patching\AMSI_memory_patching\obj\Debug\AMSI_memory_patching.pdb
